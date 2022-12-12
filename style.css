@@ -85,22 +85,21 @@ body{
 
 /*HOME*/
 .mtext{
-    margin-top: 10px; /*100px*/
+    margin-top: 100px; /*100/10px*/
     text-align: center;
 }
-.mtext h3{
-    font-family: 'Rubik Mono One', sans-serif;
-    font-size: 40px;
-    color: black;
+.mtext h1{
+    /*font-family: 'Rubik Mono One', sans-serif;*/
+    color:#04AA6D;
 }
 .mtext p{
-    font-size: 30px;
+    font-size: 50px;
     color:black;
 }
 
 /*ABOUT PORTION*/
 .about1{
-    margin-top: 20px; /*210*/
+    margin-top: 200px; /*20px/210*/
   }
 
   .text1 h3{
@@ -175,6 +174,9 @@ body{
   }
   .body-container h4{
     margin-top: 10px;
+  }
+  .body-d p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
 
